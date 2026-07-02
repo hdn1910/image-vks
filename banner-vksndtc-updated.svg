@@ -1,8 +1,9 @@
-<svg width="441" height="120" viewBox="0 0 441 120" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="580" height="120" viewBox="0 0 580 120" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>Banner BÀN LÀM VIỆC SỐ - VKSNDTC</title>
   <desc>Banner logo nền xanh navy với quốc huy và chữ BÀN LÀM VIỆC SỐ / VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO</desc>
-  <rect width="441" height="120" rx="20" fill="#1a2a5e"/>
-  <svg x="22" y="10" width="90" height="90" viewBox="0 0 150 152.56641" version="1.1" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs
+  <rect width="580" height="120" rx="20" fill="#1a2a5e"/>
+  <g transform="translate(55,0)">
+    <svg x="0" y="10" width="100" height="100" viewBox="0 0 150 152.56641" version="1.1" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs45466"><linearGradient
        id="linearGradient2979"><stop
          style="stop-color:#fff798;stop-opacity:1;"
@@ -2024,8 +2025,9 @@
        d="M 69.133,20.559 76,19.73"
        style="fill:none;stroke:#fdd200;stroke-width:0.375001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path123242" /></g></svg>
-  <text x="132" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="700"
+  <text x="125" y="52" font-family="Arial, sans-serif" font-size="32" font-weight="700"
         fill="#ffffff" letter-spacing="1.5">BÀN LÀM VIỆC SỐ</text>
-  <text x="132" y="80" font-family="Arial, sans-serif" font-size="15" font-weight="400"
+  <text x="125" y="82" font-family="Arial, sans-serif" font-size="18" font-weight="400"
         fill="#c8d8f8" letter-spacing="1">VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO</text>
+  </g>
 </svg>
